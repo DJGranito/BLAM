@@ -1,0 +1,2 @@
+# BLAM
+Mini project
